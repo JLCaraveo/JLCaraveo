@@ -4,7 +4,7 @@
 - :infinity: Since I was a child, the maths were my favorite subjects.
 - :books: I am learning something new every day to keep me updated.
 - :technologist: I will be very happy if you want to colaborate together in order to create something awsome.
-- :email: Feel free to contact me via email at higueracaraveojoseluis@gmail.com, or send me a DM on twitter @JLCaraveo
+- :email: Feel free to contact me via email at higueracaraveojl@gmail.com, or send me a DM on twitter @JLCaraveo
 
 <!---
 JLCaraveo/JLCaraveo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
