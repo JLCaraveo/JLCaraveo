@@ -25,7 +25,7 @@ Find out if, based on historical data, how the human resources department can pr
     - Logistic Regression.
     - Random Forest.
     - Logistic Neural Network.
-- Url post: Access to the post on this [Link](https://www.jlcaraveo.netlify.app/projects/should-we-hire-new-staff/).
+- Url post: Access to the post on this [Link](https://jlcaraveo.netlify.app/projects/should-we-hire-new-staff/).
 - Url Repository: Access to the project on this [Link](https://github.com/JLCaraveo/ML-Projects/blob/master/01.%20Human%20Resources/Human%20Resources%20-%20English%20version.ipynb).
 
 **Which client looks like which client?.**
@@ -35,7 +35,7 @@ Notice how a bank can segment its customers based on their movement and thereby 
     - K-Means.
     - Principal Components Analysis (PCA).
     - Autoencoders.
-- Url post: Access to the post on this [Link](https://www.jlcaraveo.netlify.app/projects/which-client-looks-like-which-client/).
+- Url post: Access to the post on this [Link](https://jlcaraveo.netlify.app/projects/which-client-looks-like-which-client/).
 - Url Repository: Access to the project on this [Link](https://github.com/JLCaraveo/ML-Projects/blob/master/02.%20Marketing/Marketing-English-Version.ipynb).
 
 **Innovating the diagnosis of possible brain cancer.**
@@ -45,11 +45,11 @@ The early diagnosis of some diseases can translate into better treatments and th
     - Convolutional Neural Networks (CNN).
     - ResNet.
     - ResU-Net.
-- Url post: Access to the post on this [Link](https://www.jlcaraveo.netlify.app/projects/innovating-the-diagnosis-of-possible-brain-cancer/)
+- Url post: Access to the post on this [Link](https://jlcaraveo.netlify.app/projects/innovating-the-diagnosis-of-possible-brain-cancer/)
 - Url Repository: Access to the project on this [Link](https://github.com/JLCaraveo/ML-Projects/blob/master/04.%20Brain%20Tumors/Healthcare_AI-English-version.ipynb)
 
 
-I will be posting my projects on my personal page: https://www.jlcaraveo.com/projects
+I will be posting my projects on my personal page: [Link](https://jlcaraveo.netlify.app/projects)
 
 # Technologies and Languages.
 
