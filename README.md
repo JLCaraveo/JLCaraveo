@@ -1,6 +1,6 @@
 # :wave: Hi, I am Jose Luis Higuera Caraveo.
 
-<img src='./images/presentation.png'/>
+<img src='./images/Presentation.png'/>
 
 I am a **Data Scientist** passioned about maths. My aim is to be updated with the most innovating technologies that are changing the way the world is moving. I have been working on personal projects based on **Machine Learning** and **Deep Learning** techniques such as Regression models, Classification, Clustering, Dimensionality Reduction, Neural Networks and others.
 
